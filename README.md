@@ -40,7 +40,7 @@
 
 * 熟悉Spring MVC框架，Spring，Structs，Hibernate框架
 
-* 熟悉html5，css3 ，javascript，JQuery类库，art template模板
+* 熟悉html5，css3 ，javascript，JQuery类库，art template模板，React框架
 
 * 熟悉C语言,Matlab
 
